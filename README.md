@@ -4,9 +4,9 @@
 
 - [Build A Cat Photo App] ✓
 - [Build A Café Menu] ✓
-- [Build A Colored Markers] 
-- [Build A Registration Form] 
-- [Build A Survey Form (Certification Project)] 
+- [Build A Colored Markers] ✓
+- [Build A Registration Form] ✓
+- [Build A Survey Form (Certification Project)] ✓
 
 ---
 
