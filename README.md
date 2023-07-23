@@ -11,7 +11,7 @@
 ---
 
 - [Build A Rothko Painting] ✓
-- [Build A Photo Gallery] 
+- [Build A Photo Gallery] ✓
 - [Build A Nutrition Label] 
 - [Build A Quiz]
 - [Build A Tribute Page (Certification Project)]
