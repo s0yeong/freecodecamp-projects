@@ -10,7 +10,7 @@
 
 ---
 
-- [Build A Rothko Painting] 
+- [Build A Rothko Painting] ✓
 - [Build A Photo Gallery] 
 - [Build A Nutrition Label] 
 - [Build A Quiz]
